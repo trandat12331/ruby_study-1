@@ -210,7 +210,6 @@ December has 31 days
 ```
 
 ### Bài 7. Sử dụng biến "dictonary" để dịch từ từ vựng tiếng Anh được nhập từ keyboard ra tiếng Việt. Nếu có từ vựng đó trong "dictionary" thì đầu ra từ vựng tiếng Việt đó. Nếu không có thì đầu ra "Not found".
-Đẩu ra từ vựng tiếng Việt 
 
 Filename: 07_dictionary.rb
 
